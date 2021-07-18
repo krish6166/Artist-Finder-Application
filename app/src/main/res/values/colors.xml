@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#040404</color>
+    <color name="colorAccent">#F2BD2A</color>
+    <color name="black_overlay">#66000000</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="red">#FF0000</color>
+
+    <color name="yellow">#FFFF00</color>
+    <color name="olive">#808000</color>
+    <color name="fav">#6d9eeb</color>
+    <color name="fav1">#ffd966</color>
+    <color name="fav3">#a4c2f4</color>
+
+</resources>
+

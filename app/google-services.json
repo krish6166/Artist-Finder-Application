@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "738813814472",
+    "firebase_url": "https://artistfinder-4a5fb.firebaseio.com",
+    "project_id": "artistfinder-4a5fb",
+    "storage_bucket": "artistfinder-4a5fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738813814472:android:588136c46740f55627e7fd",
+        "android_client_info": {
+          "package_name": "com.example.application.artistfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738813814472-54lt1403qnmj9sc29fjboqpg62qdhv4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.application.artistfinder",
+            "certificate_hash": "a3c7bad822066d3243214438a6ff7125854adc09"
+          }
+        },
+        {
+          "client_id": "738813814472-v5lr7hatet231epervkgk5ab7qip8lpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiNQNDhoiQ_83JIYn4u4mpxf2reRjvOcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738813814472-v5lr7hatet231epervkgk5ab7qip8lpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
